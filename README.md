@@ -4,5 +4,7 @@ Darkweaver is an ATOM style.less tweak based on the Dracula ATOM theme by Zeno R
 
 To get it, simply:
 
-  - Install the Dracula theme by Zeno Rocha: https://draculatheme.com/atom/
-  - Edit your local style.less file and paste the styles on this repo
+  - Install the Dracula theme by Zeno Rocha: https://draculatheme.com/atom/.
+  - Edit your local style.less file and paste the styles from this repo.
+  
+Thanks to Zeno for his great Dracula theme. Loving those "psychobilly" colours!
